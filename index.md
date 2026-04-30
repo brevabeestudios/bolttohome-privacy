@@ -1,9 +1,9 @@
 # Privacy Policy for Bolt to Home
 
-**Effective date:** [INSERT DATE — e.g. 2026-05-01]
-**Last updated:** [INSERT DATE]
+**Effective date:** 2026-04-29
+**Last updated:** 2026-04-29
 
-This privacy policy describes how **Bolt to Home** (the "Game", "we", "us", or "our"), published by **[YOUR NAME / STUDIO NAME]** (the "Developer"), collects, uses, and shares information about you when you use our mobile game on Android or iOS.
+This privacy policy describes how **Bolt to Home** (the "Game", "we", "us", or "our"), published by **Brevabee Studios** (the "Developer"), collects, uses, and shares information about you when you use our mobile game on Android or iOS.
 
 By installing or using the Game, you agree to the practices described in this policy. If you do not agree, please uninstall the Game and stop using our services.
 
@@ -86,16 +86,16 @@ If you are located in the European Economic Area, the United Kingdom, or Switzer
 - Object to or restrict processing.
 - Withdraw consent at any time (the Game will still function but ads may be non-personalized).
 
-To exercise these rights, contact us at **[YOUR EMAIL]**.
+To exercise these rights, contact us at **brevabeestudios@gmail.com**.
 
 ### California Users (CCPA / CPRA)
-California residents have the right to know what personal information is collected, request deletion, and opt out of the "sale" or "sharing" of personal information. We do not sell your data, but ad partners' use of advertising IDs may be considered sharing under California law. To opt out, follow the device-level instructions above or contact us at **[YOUR EMAIL]**.
+California residents have the right to know what personal information is collected, request deletion, and opt out of the "sale" or "sharing" of personal information. We do not sell your data, but ad partners' use of advertising IDs may be considered sharing under California law. To opt out, follow the device-level instructions above or contact us at **brevabeestudios@gmail.com**.
 
 ---
 
 ## 6. Children's Privacy
 
-The Game is not directed to children under 13 (or under 16 in the EU). We do not knowingly collect personal information from children. The Game's advertising is configured to comply with the Children's Online Privacy Protection Act (COPPA) and the EU's GDPR-K. If you believe a child has provided us personal information, please contact **[YOUR EMAIL]** and we will delete it.
+The Game is not directed to children under 13 (or under 16 in the EU). We do not knowingly collect personal information from children. The Game's advertising is configured to comply with the Children's Online Privacy Protection Act (COPPA) and the EU's GDPR-K. If you believe a child has provided us personal information, please contact **brevabeestudios@gmail.com** and we will delete it.
 
 ---
 
@@ -121,9 +121,9 @@ We may update this policy from time to time. Material changes will be highlighte
 
 If you have questions or concerns about this privacy policy, please contact:
 
-**[YOUR NAME / STUDIO NAME]**
-Email: **[YOUR EMAIL]**
+**Brevabee Studios**
+Email: **brevabeestudios@gmail.com**
 
 ---
 
-*Bolt to Home © [YEAR] [YOUR NAME / STUDIO NAME]. All rights reserved.*
+*Bolt to Home © 2026 Brevabee Studios. All rights reserved.*
